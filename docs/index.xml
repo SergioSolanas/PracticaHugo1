@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quién soy :: Práctica Hugo</title>
+    <link>https://SergioSolanas.github.io/PracticaHugo1/index.html</link>
+    <description>PRESENTACIÓN Mi nombre es: Juan Carlos Martínez Profesión: Periodista deportivo Me especializo en: Cobertura de eventos deportivos, análisis táctico y entrevistas exclusivas. Perfil Profesional: Apasionado por el deporte y la comunicación, Juan Carlos Martínez cuenta con más de 25 años de experiencia en el ámbito del periodismo deportivo. Ha trabajado para medios reconocidos como as.com, donde ha cubierto desde ligas locales hasta competiciones internacionales como la Copa del Mundo, los Juegos Olímpicos y los torneos más destacados de disciplinas como el fútbol, baloncesto y tenis.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 21:34:09 +0100</lastBuildDate>
+    <atom:link href="https://SergioSolanas.github.io/PracticaHugo1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sección Técnica: Java</title>
+      <link>https://SergioSolanas.github.io/PracticaHugo1/java/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 21:34:09 +0100</pubDate>
+      <guid>https://SergioSolanas.github.io/PracticaHugo1/java/index.html</guid>
+      <description>En esta sección voy a explicar un par de conceptos sobre Java: Java es el primer lenguaje de programación que aprendí y el que maás he utilizado, es un lenguaje orientado a objetos, lo que lo hace muy poderoso y estructurado.&#xA;Algunos ejemplos de código son los siguientes: Estructura Básica: Un programa en Java se compone de clases y métodos. El punto de entrada principal es el método main.&#xA;public class MiPrimeraClase { public static void main(String[] args) { System.out.println(&#34;¡Hola, mundo!&#34;); } } public class MiPrimeraClase: Declara una clase llamada MiPrimeraClase. public static void main(String[] args) : El método principal donde inicia la ejecución. System.out.println(&#34;¡Hola, mundo!&#34;);: Imprime texto en la consola. Declaración de variables: Java es fuertemente tipado, lo que significa que cada variable debe tener un tipo definido.</description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>https://SergioSolanas.github.io/PracticaHugo1/hobbies/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 19:42:18 +0100</pubDate>
+      <guid>https://SergioSolanas.github.io/PracticaHugo1/hobbies/index.html</guid>
+      <description>Listado de canales de tv</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 19:42:18 +0100</pubDate>
+      <guid>https://SergioSolanas.github.io/PracticaHugo1/markdown/index.html</guid>
+      <description>En esta sección voy a explicar un par de conceptos sobre la sintaxis de Markdown: Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera simple y rápida. Fue diseñado para que sea legible como texto plano y se convierta fácilmente en HTML. Es ampliamente utilizado en documentación, blogs y plataformas como GitHub.&#xA;Algunas características son: Encabezados: → Ejemplo Encabezados&#xA;Tablas: → Ejemplo Tablas&#xA;Imágenes: → Ejemplo Imágenes</description>
+    </item>
+  </channel>
+</rss>
