@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313/'
+baseURL = 'https://sergiosolanas.github.io/PracticaHugo1/'
 languageCode = 'en-us'
 title = 'Práctica Hugo'
 

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown :: Práctica Hugo</title>
-    <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/index.html</link>
+    <link>https://sergiosolanas.github.io/PracticaHugo1/markdown/index.html</link>
     <description>En esta sección voy a explicar un par de conceptos sobre la sintaxis de Markdown: Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera simple y rápida. Fue diseñado para que sea legible como texto plano y se convierta fácilmente en HTML. Es ampliamente utilizado en documentación, blogs y plataformas como GitHub.&#xA;Algunas características son: Encabezados: → Ejemplo Encabezados&#xA;Tablas: → Ejemplo Tablas&#xA;Imágenes: → Ejemplo Imágenes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2024 19:42:18 +0100</lastBuildDate>
-    <atom:link href="https://SergioSolanas.github.io/PracticaHugo1/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sergiosolanas.github.io/PracticaHugo1/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encabezados</title>
-      <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/encabezados/index.html</link>
+      <link>https://sergiosolanas.github.io/PracticaHugo1/markdown/encabezados/index.html</link>
       <pubDate>Tue, 10 Dec 2024 19:42:18 +0100</pubDate>
-      <guid>https://SergioSolanas.github.io/PracticaHugo1/markdown/encabezados/index.html</guid>
+      <guid>https://sergiosolanas.github.io/PracticaHugo1/markdown/encabezados/index.html</guid>
       <description>Encabezados En Markdown, los encabezados se crean utilizando el símbolo #. Puedes ajustar el tamaño del encabezado agregando más signos #, donde uno es el nivel más alto (H1) y seis es el nivel más bajo (H6).&#xA;Ejemplo: # Encabezado 1&#xD;## Encabezado 2&#xD;### Encabezado 3&#xD;#### Encabezado 4&#xD;##### Encabezado 5&#xD;###### Encabezado 6 Resultado: Encabezado 1 Encabezado 2 Encabezado 3 Encabezado 4 Encabezado 5 Encabezado 6</description>
     </item>
     <item>
       <title>Imágenes</title>
-      <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/imagenes/index.html</link>
+      <link>https://sergiosolanas.github.io/PracticaHugo1/markdown/imagenes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SergioSolanas.github.io/PracticaHugo1/markdown/imagenes/index.html</guid>
+      <guid>https://sergiosolanas.github.io/PracticaHugo1/markdown/imagenes/index.html</guid>
       <description>Imágenes Permite mostrar imágenes para mostrar algo de una manera más gráfica.&#xA;![Markdown logo](/markdown/markdown.png)</description>
     </item>
     <item>
       <title>Otros</title>
-      <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/otros/index.html</link>
+      <link>https://sergiosolanas.github.io/PracticaHugo1/markdown/otros/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SergioSolanas.github.io/PracticaHugo1/markdown/otros/index.html</guid>
+      <guid>https://sergiosolanas.github.io/PracticaHugo1/markdown/otros/index.html</guid>
       <description>Texto Enriquecido Formatea texto fácilmente. Ejemplos:&#xA;Negrita: **texto** → texto Cursiva: *texto* → texto Tachado: ~~texto~~ → texto Listas Enumera una serie de elementos y hay varios tipos:&#xA;Listas con viñetas: - Elemento 1&#xD;- Elemento 2&#xD;- Sub-elemento 2.1 Elemento 1&#xA;Elemento 2&#xA;Sub-elemento 2.1 Listas con números:&#xA;1. Primer elemento&#xD;2. Segundo elemento Primer elemento Segundo elemento Enlaces Crea enlaces con esta sintaxis:&#xA;[Síntaxis Markdown](https://markdown.es/sintaxis-markdown/) Resultado: Síntaxis Markdown</description>
     </item>
     <item>
       <title>Tablas</title>
-      <link>https://SergioSolanas.github.io/PracticaHugo1/markdown/tablas/index.html</link>
+      <link>https://sergiosolanas.github.io/PracticaHugo1/markdown/tablas/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SergioSolanas.github.io/PracticaHugo1/markdown/tablas/index.html</guid>
+      <guid>https://sergiosolanas.github.io/PracticaHugo1/markdown/tablas/index.html</guid>
       <description>Tablas Permiten estructurar datos en filas y columnas.&#xA;| Encabezado 1 | Encabezado 2 | Encabezado 3 |&#xD;|--------------|--------------|--------------|&#xD;| Dato 1 | Dato 2 | Dato 3 |&#xD;| Dato 4 | Dato 5 | Dato 6 | Resultado:&#xA;Encabezado 1 Encabezado 2 Encabezado 3 Dato 1 Dato 2 Dato 3 Dato 4 Dato 5 Dato 6</description>
     </item>
   </channel>
