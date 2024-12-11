@@ -1,0 +1,19 @@
+[ {
+    "name": "Películas",
+    "peliculas": [
+      {
+        "name": "Real Zaragoza 6 - Real Madrid 1",
+        "web": "https://www.youtube.com/watch?v=hOJBI5vgUAI",
+        "logo": "/../hobbies/zgz.jpg",
+        "nota": []
+      },
+      {
+        "name": "Real Zaragoza 6 - Real Madrid 1",
+        "web": "https://www.youtube.com/watch?v=hOJBI5vgUAI",
+        "logo": "zgz.jpg",
+        "nota": []
+      }
+    ]
+  }
+  ]
+  

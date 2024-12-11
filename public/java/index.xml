@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sección Técnica: Java :: Práctica Hugo</title>
+    <link>http://localhost:1313/java/index.html</link>
+    <description>En esta sección voy a explicar un par de conceptos sobre Java: Java es el primer lenguaje de programación que aprendí y el que maás he utilizado, es un lenguaje orientado a objetos, lo que lo hace muy poderoso y estructurado.&#xA;Algunos ejemplos de código son los siguientes: Estructura Básica: Un programa en Java se compone de clases y métodos. El punto de entrada principal es el método main.&#xA;public class MiPrimeraClase { public static void main(String[] args) { System.out.println(&#34;¡Hola, mundo!&#34;); } } public class MiPrimeraClase: Declara una clase llamada MiPrimeraClase. public static void main(String[] args) : El método principal donde inicia la ejecución. System.out.println(&#34;¡Hola, mundo!&#34;);: Imprime texto en la consola. Declaración de variables: Java es fuertemente tipado, lo que significa que cada variable debe tener un tipo definido.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/java/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

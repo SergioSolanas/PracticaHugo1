@@ -1,0 +1,14 @@
+<h2>Uno de mis hobbies es el cine y estas son algunas de mis películas favoritas.</h2>
+<ul>
+    {{ range  .Site.Data.cine }}
+    <h2><li>  {{ .name }}</li></h2>
+    {{ range .peliculas }}
+    <a href="{{ .web}}" >
+        <img src="{{.logo}}" alt="{{ .name }}" style="width: 200px; height: 200px;" title="{{ .nota }}">
+    </a>
+    <p>{{ .name }}</p>
+
+    {{ end }}
+    {{ end }}
+</ul>
+

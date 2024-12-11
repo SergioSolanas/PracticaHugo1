@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/hobbies/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/hobbies/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-12-10 00:00:00 +0000 UTC</lastBuildDate>
+        
+
+        <link>http://localhost:1313/hobbies/</link>
+
+        
+
+        <title>Secciones · Quién soy</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Create a new hugo website or open your existing hugo site.</p>
+<h4 id="add-the-theme-to-your-hugo-site">Add the theme to your hugo site</h4>
+<p>Use as a git submodule:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git submodule add https://github.com/apvarun/digital-garden-hugo-theme.git themes/digitalgarden
+</span></span></code></pre></div><p>Clone the repository (one-off, updating the theme may be harder later):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone https://github.com/apvarun/digital-garden-hugo-theme.git themes/digitalgarden
+</span></span></code></pre></div><h4 id="setup">Setup</h4>
+<ol>
+<li>Copy <code>package.json</code>, <code>package-lock.json</code> and <code>tailwind.config.js</code> files from the theme/digitalgarden folder to the root folder of your the website</li>
+<li>Run <code>npm install</code> to install required packages for theme</li>
+<li>Run <code>npm i -g postcss-cli</code> to use PostCSS with Hugo build</li>
+<li>Set <code>theme = 'digitalgarden'</code> in config.toml</li>
+<li>Run <code>npm run dev</code> to start your local server</li>
+</ol>
+<p>When deploying to services like Netlify or Vercel, use the following command for building your site:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>npm i -g postcss-cli <span style="color:#f92672">&amp;&amp;</span> npm run build
+</span></span></code></pre></div><p>→ <a href="/articles/structure">Understanding the theme structure</a></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-12-10:/hobbies/hobbies/</guid>
+
+                
+                    <link>http://localhost:1313/hobbies/hobbies/</link>
+                
+
+                
+                    <pubDate>Tue, 10 Dec 2024 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title> Hobbies </title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Understand the structure of the theme&rsquo;s setup to create content for your website.</p>
+<h4 id="themes-content-structure">Theme&rsquo;s content structure</h4>
+<pre tabindex="0"><code>.
+├── ...
+├── content                 # Hosts all Markdown content
+│   ├── articles            # Contains the list of markdown files for notes/posts
+│   │   ├── article-1.md
+│   │   ├── article-2.md
+│   │   └── article-3.md
+│   └── portfolio           # List of portfolio projects or case studies
+│       ├── project-1.md
+│       └── project-2.md
+├── data                    # Test files (alternatively `spec` or `tests`)
+│   └── stack.json          # Data used for rendering the list in Stack page
+└── ...
+</code></pre><p>Note that articles, portfolio and also stack pages require you to create <code>_index.md</code> inside of it. Refer the <a href="https://github.com/apvarun/digital-garden-hugo-theme/tree/main/exampleSite">exampleSite</a> in theme.</p>
+<p>All of these sections are optional and you can decide not to utilize those layouts.</p>
+<p>→ <a href="/articles/primary-menu">Configure Primary Menu</a></p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2021-12-18:/hobbies/markdown/</guid>
+
+                
+                    <link>http://localhost:1313/hobbies/markdown/</link>
+                
+
+                
+                    <pubDate>Sat, 18 Dec 2021 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title> Structure </title>
+                
+            </item>
+        
+    </channel>
+</rss>

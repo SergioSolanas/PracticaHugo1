@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/java/index.html</loc>
+    <lastmod>2024-12-10T21:34:09+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/encabezados/index.html</loc>
+    <lastmod>2024-12-10T19:42:18+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hobbies/index.html</loc>
+    <lastmod>2024-12-10T19:42:18+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/index.html</loc>
+    <lastmod>2024-12-10T19:42:18+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc>
+    <lastmod>2024-12-10T18:13:22+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/imagenes/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/otros/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/tablas/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
+  </url>
+</urlset>

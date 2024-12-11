@@ -1,0 +1,45 @@
+[ {
+    "name": "Películas",
+    "peliculas": [
+      {
+        "name": "The Godfather Part II",
+        "web": "https://www.imdb.com/title/tt0071562/",
+        "logo": "/../hobbies/padrino.jpg",
+        "nota": "9.0"
+      },
+      {
+        "name": "Vertigo",
+        "web": "https://www.imdb.com/title/tt0052357/",
+        "logo": "/../hobbies/ver.jpg",
+        "nota": "8.3"
+      },
+      {
+        "name": "8 Mile",
+        "web": "https://www.imdb.com/title/tt0298203/",
+        "logo": "/../hobbies/8millas.jpg",
+        "nota": "7.2"
+      },
+      {
+        "name": "The Shawshank Redemption",
+        "web": "https://www.imdb.com/title/tt0111161/",
+        "logo": "/../hobbies/cadena.jpg",
+        "nota": "9.3"
+      },
+      
+      {
+        "name": "The Wolf of Wall Street",
+        "web": "https://www.imdb.com/title/tt0993846/",
+        "logo": "/../hobbies/lobo.jpg",
+        "nota": "8.2"
+      },
+      {
+        "name": "Goodfellas",
+        "web": "https://www.imdb.com/title/tt0099685/",
+        "logo": "/../hobbies/goodfellas.jpg",
+        "nota": "8.7"
+      }
+      
+    ]
+  }
+  ]
+  
